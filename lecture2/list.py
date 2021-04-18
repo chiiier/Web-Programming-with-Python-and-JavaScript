@@ -1,4 +1,4 @@
-# Define a list of names
+#Define a list of names
 names = ["Harry", "Ron", "Hermione", "Ginny"]
 
 print("original list : ", names)
